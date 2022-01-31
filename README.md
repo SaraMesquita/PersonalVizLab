@@ -8,6 +8,8 @@ Welcome to my personal data visualization lab, where I run my dataviz experiment
 
 <hr />
 
+This funnel plot (shown below) is used to compare the proportion of antibiotics in the total medication, over a year, for each hospital in Portugal. It takes into consideration that smaller hospitals (that serve less people) are more vulnerable to the role of chance, and therefore tend to have more extreme results. The control limits are set to contain 95% and 99.9% of the probability distribution. This type of graphic is extensively used when examining multiple health authorities or institutions, since it permits the identification of outliers without creating spurious league tables.
+
 ![image](https://user-images.githubusercontent.com/24231383/151883792-7dca2be9-1f42-4e7f-bc8c-6c3a1401883f.png)
 
 [Code here](https://github.com/SaraMesquita/PersonalVizLab/blob/main/Funnel%20Plot.ipynb)
