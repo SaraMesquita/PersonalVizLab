@@ -14,7 +14,7 @@ This funnel plot (shown below) is used to compare the proportion of antibiotics 
 
 [Code here](https://github.com/SaraMesquita/PersonalVizLab/blob/main/Funnel%20Plot.ipynb)
 
-### (1) Using Google Trends API to visualize meantal health over time
+### (2) Using Google Trends API to visualize meantal health over time
 
 <hr />
 
