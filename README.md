@@ -18,6 +18,6 @@ This funnel plot (shown below) is used to compare the proportion of antibiotics 
 
 <hr />
 
-![image](![image](https://user-images.githubusercontent.com/24231383/152075890-778606e7-7295-4e9f-a651-a7381af45a07.png))
+![image](https://user-images.githubusercontent.com/24231383/152075890-778606e7-7295-4e9f-a651-a7381af45a07.png)
 
 [Code here](https://github.com/SaraMesquita/PersonalVizLab/blob/main/Google%20Trends%20API_MentalHealth.ipynb)
