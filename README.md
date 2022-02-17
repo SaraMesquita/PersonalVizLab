@@ -23,7 +23,7 @@ This funnel plot (shown below) is used to compare the proportion of antibiotics 
 [Code here](https://github.com/SaraMesquita/PersonalVizLab/blob/main/Google%20Trends%20API_MentalHealth.ipynb)
 
 
-### (3) Text processing - Data Visualization Lisboa meetup word cloud
+### (3) Text processing - [Data Visualization Lisboa meetup](https://www.meetup.com/pt-BR/Data-Visualization-Lisboa/) word cloud
 
 <hr />
 
